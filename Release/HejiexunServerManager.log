@@ -1,0 +1,30 @@
+﻿生成启动时间为 2016/3/24 14:22:33。
+     1>项目“E:\WorkSpace\HejiexunServerManager\HejiexunServerManager\HejiexunServerManager.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USING_V110_SDK71_ /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\HejiexunServerManager.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS ProcessManager.cpp
+         ProcessManager.cpp
+     1>ProcessManager.cpp(207): warning C4101: “ps”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\WorkSpace\HejiexunServerManager\Release\HejiexunServerManager.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\Release /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\WorkSpace\HejiexunServerManager\Release\HejiexunServerManager.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\WorkSpace\HejiexunServerManager\Release\HejiexunServerManager.lib" /MACHINE:X86 /SAFESEH Release\HejiexunServerManager.res
+         Release\ClassView.obj
+         Release\EditInfoDlg.obj
+         Release\FileView.obj
+         Release\HejiexunServerManager.obj
+         Release\HejiexunServerManagerDoc.obj
+         Release\HejiexunServerManagerView.obj
+         Release\MainFrm.obj
+         Release\OutputWnd.obj
+         Release\ProcessManager.obj
+         Release\PropertiesWnd.obj
+         Release\stdafx.obj
+         Release\Subclass.obj
+         Release\TrayIcon.obj
+         Release\ViewTree.obj
+         正在生成代码
+         已完成代码的生成
+         HejiexunServerManager.vcxproj -> E:\WorkSpace\HejiexunServerManager\Release\HejiexunServerManager.exe
+     1>已完成生成项目“E:\WorkSpace\HejiexunServerManager\HejiexunServerManager\HejiexunServerManager.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.68
